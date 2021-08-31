@@ -28,6 +28,8 @@ Syntax highlighted code block
 
 For more details see [Link no redirect](https://app-stg.thespaghettidetective.com/ent/pricing/?universal_link=false).
 
+For more details see [GITHUB Link no redirect](https://eugenneer.github.io/?universal_link=false).
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Eugenneer/universallinks.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
