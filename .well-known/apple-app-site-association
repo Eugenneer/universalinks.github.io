@@ -2,14 +2,14 @@
   "applinks": {
     "apps": [],
     "details": [
-    {
-      "appID": "VR5RXL44RC.com.thespaghettidetective.ios",
-      "paths": ["NOT *toon/*", "*"]
-    },
-    {
-      "appID": "VR5RXL44RC.com.thespaghettidetective.stage.ios",
-      "paths": ["NOT *toon/*", "*"]
-    }
+      {
+        "appID": "VR5RXL44RC.com.thespaghettidetective.ios",
+        "paths": ["NOT *universal_link=false", "*"]
+      },
+	    {
+        "appID": "VR5RXL44RC.com.thespaghettidetective.stage.ios",
+        "paths": ["NOT *universal_link=false", "*"]
+      }
     ]
   }
 }
