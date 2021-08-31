@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "VR5RXL44RC.com.thespaghettidetective.ios",
+      "paths": ["NOT *username=*&password=*", "NOT /welcome.html?username=&password="]
+    },
+    {
+      "appID": "VR5RXL44RC.com.thespaghettidetective.stage.ios",
+      "paths": ["NOT *username=*&password=*", "NOT /welcome.html?username=&password="]
+    }
+    ]
+  }
+}
