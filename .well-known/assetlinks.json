@@ -28,5 +28,35 @@
         "76:0F:5B:19:31:26:6C:24:BE:0E:92:60:36:8A:0B:88:FE:4A:45:3F:C5:7B:1C:FB:8C:8F:E5:0E:91:33:78:D1"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.thespaghettidetective",
+      "sha256_cert_fingerprints": [
+        "7D:7F:B1:6D:D2:D6:22:43:78:A4:F4:D4:80:F1:C8:1C:E6:F9:58:C4:43:BD:FA:5F:4C:12:66:D2:78:D1:4C:4F"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.thespaghettidetective.android",
+      "sha256_cert_fingerprints": [
+        "7D:7F:B1:6D:D2:D6:22:43:78:A4:F4:D4:80:F1:C8:1C:E6:F9:58:C4:43:BD:FA:5F:4C:12:66:D2:78:D1:4C:4F"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.thespaghettidetective.stage.android",
+      "sha256_cert_fingerprints": [
+        "7D:7F:B1:6D:D2:D6:22:43:78:A4:F4:D4:80:F1:C8:1C:E6:F9:58:C4:43:BD:FA:5F:4C:12:66:D2:78:D1:4C:4F"
+      ]
+    }
   }
 ]
